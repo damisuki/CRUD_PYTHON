@@ -21,3 +21,4 @@
 <p>en el  mismo se encuentran todas las dependecias del proyecto.</p>
 
 
+![](app/static/assets/imgs/crud simple python.png)
