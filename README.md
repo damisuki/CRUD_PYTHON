@@ -20,5 +20,6 @@
 `pip install -r requirements.txt`
 <p>en el  mismo se encuentran todas las dependecias del proyecto.</p>
 
-![Vista previa .](app/static/assets/imgs/crud simple python.png)
+![Vista previa .](static/assets/imgs/crud simple python.png)
+
 
